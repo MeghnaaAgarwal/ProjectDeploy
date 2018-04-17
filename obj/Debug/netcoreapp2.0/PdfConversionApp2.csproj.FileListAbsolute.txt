@@ -1,0 +1,11 @@
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\bin\Debug\netcoreapp2.0\PdfConversionApp2.deps.json
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\bin\Debug\netcoreapp2.0\PdfConversionApp2.runtimeconfig.json
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\bin\Debug\netcoreapp2.0\PdfConversionApp2.runtimeconfig.dev.json
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\bin\Debug\netcoreapp2.0\PdfConversionApp2.dll
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\obj\Debug\netcoreapp2.0\PdfConversionApp2.csprojResolveAssemblyReference.cache
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\obj\Debug\netcoreapp2.0\PdfConversionApp2.csproj.CoreCompileInputs.cache
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\obj\Debug\netcoreapp2.0\PdfConversionApp2.AssemblyInfoInputs.cache
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\obj\Debug\netcoreapp2.0\PdfConversionApp2.AssemblyInfo.cs
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\bin\Debug\netcoreapp2.0\PdfConversionApp2.pdb
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\obj\Debug\netcoreapp2.0\PdfConversionApp2.dll
+c:\users\meghna\source\repos\PdfConversionApp2\PdfConversionApp2\obj\Debug\netcoreapp2.0\PdfConversionApp2.pdb
